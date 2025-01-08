@@ -9,5 +9,4 @@ public class SpringragApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringragApplication.class, args);
 	}
-
 }
