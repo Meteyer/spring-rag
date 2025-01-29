@@ -1,12 +1,12 @@
-package fr.efrei.springrag;
+package fr.efrei.rag;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringragApplication {
+public class RagApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringragApplication.class, args);
+		SpringApplication.run(RagApplication.class, args);
 	}
 }

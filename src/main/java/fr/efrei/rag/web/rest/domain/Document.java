@@ -1,4 +1,4 @@
-package fr.efrei.springrag.web.rest.domain;
+package fr.efrei.rag.web.rest.domain;
 
 import jakarta.persistence.*;
 
