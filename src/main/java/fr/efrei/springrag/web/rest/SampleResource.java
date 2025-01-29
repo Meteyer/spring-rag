@@ -1,6 +1,6 @@
 package fr.efrei.springrag.web.rest;
 
-import fr.efrei.springrag.web.dto.Sample;
+import fr.efrei.springrag.web.rest.dto.Sample;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
