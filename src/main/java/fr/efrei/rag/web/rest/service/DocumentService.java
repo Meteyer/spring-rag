@@ -1,7 +1,7 @@
-package fr.efrei.springrag.web.rest.service;
+package fr.efrei.rag.web.rest.service;
 
-import fr.efrei.springrag.web.rest.domain.Document;
-import fr.efrei.springrag.web.rest.repository.DocumentRepository;
+import fr.efrei.rag.web.rest.domain.Document;
+import fr.efrei.rag.web.rest.repository.DocumentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

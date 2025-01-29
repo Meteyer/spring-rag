@@ -1,7 +1,7 @@
-package fr.efrei.springrag.web.rest;
+package fr.efrei.rag.web.rest;
 
-import fr.efrei.springrag.web.rest.domain.Document;
-import fr.efrei.springrag.web.rest.service.DocumentService;
+import fr.efrei.rag.web.rest.domain.Document;
+import fr.efrei.rag.web.rest.service.DocumentService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;

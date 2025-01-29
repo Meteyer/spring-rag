@@ -1,4 +1,4 @@
-package fr.efrei.springrag.web.rest.dto;
+package fr.efrei.rag.web.rest.dto;
 
 public class Sample {
 
