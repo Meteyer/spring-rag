@@ -9,5 +9,4 @@ class RagApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
